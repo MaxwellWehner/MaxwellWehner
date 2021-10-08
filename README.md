@@ -1,6 +1,6 @@
 ### Thanks for Stopping By 👋
 
-Im Maxwell Wehner and I love to solve problem and build solutions
+Im [Maxwell Wehner](https://maxwellwehner.github.io) and I love to solve problem and build solutions
 
 - 🔭 I’m currently working on [Indie](https://github.com/MaxwellWehner/Indie) and combining all the technologies I've learned over the past 6 months.
 
